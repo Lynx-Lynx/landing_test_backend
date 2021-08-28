@@ -1,1 +1,1 @@
-# landing_test_backend
+Server for sending emails from the contact form
